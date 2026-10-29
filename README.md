@@ -114,6 +114,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/swe-serve?style=social" height="17" align="texttop"/> [swe-serve](https://github.com/NVIDIA/swe-serve) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
 
 [Back to Table of Contents](#table-of-contents)
+- [llm-cpu-bench](https://github.com/DanielChernov7/llm-cpu-bench) - one-script Ollama benchmark for CPU-only servers: generation and prompt tokens/s, cold load and peak RAM, with results from shared and dedicated cloud vCPUs
 
 ### Model providers
 
